@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x79d085a0a222d80964479cd5a64b9e44108e84e3",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x087d77ea9e7062168bad49ba1bbc5905a98bc05f9cae7d6b6cc77d0a39c370b8",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bullcow",
+  "SYMBOL": "BCNFT",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/bullcow",
+  "SHOW_BACKGROUND": true
+}
